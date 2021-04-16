@@ -1,0 +1,10 @@
+TensorFlow
+Keras
+Librosa
+PyAudioProcessing
+PyAudioAnalysis
+NumPy
+Pandas
+Matplotlib
+os
+glob 

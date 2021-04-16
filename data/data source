@@ -1,1 +1,15 @@
+RAVDESS Data set 
 
+The RAVDESS dataset (cited below), was used for training purposes of the Deep Learning model.
+The audio-only files were used for the current purpose.
+
+(Livingstone SR, Russo FA (2018) The Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS): A dynamic, multimodal set of facial and vocal expressions in North American English.) 
+
+
+Description
+This dataset contains a total of 7356 files (24.8 GB) from 24 professional actors (12 male, 12 female), vocalizing two lexically matched statements in a neural North American accent. Speech includes calm, happy, sad, angry, fearful, surprise, and disgust expressions.
+
+
+Audio-only files
+Audio-only files of all actors (01-24) are available as two separate zip files (~200 MB each):
+•	Speech file (Audio_Speech_Actors_01-24.zip, 215 MB) contains 1440 files: 60 trials per actor x 24 actors = 1440. 
